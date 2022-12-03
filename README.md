@@ -5,8 +5,8 @@ basic spring example from in28minutes udemy course
 ## Concepts covered 
 ### tight and loose Coupling 
 ### dependancy injuction
-field injuction 
-constructor injuction 
+field injuction\ 
+constructor injuction\ 
 setter injuction
 ### inversion of control
 ### ioc container
